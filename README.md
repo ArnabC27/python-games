@@ -5,7 +5,7 @@ This repository contains different games I have made using Python
    Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors".![L-1118477-1481560705-7565 jpeg](https://user-images.githubusercontent.com/70847577/116782961-b6eb4900-aaa9-11eb-9566-4b22fd16dfd3.jpg)
    
 2. [Snake Game](https://github.com/ArnabC27/python-games/blob/main/snake-game.py) <br>
-   Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle.
+   Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle.<br>
    ![resize-16200219191509721341hero](https://user-images.githubusercontent.com/70847577/116853554-e4540600-ac13-11eb-94ef-313d49ddce25.png)
 
 
